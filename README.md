@@ -25,11 +25,13 @@
 
 
 You will learn these things also:
-Creating New Columns & Dataframe
-Filtering (Single Column & Multiple Columns)
-Filtering with And and OR
-Seaborn Library - Bar Graphs
 
+- Creating New Columns & Dataframe
+- Filtering (Single Column & Multiple Columns)
+- Filtering with And and OR
+- Seaborn Library - Bar Graphs
+
+Tasks:
 
 1) Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
 2) Is there any Null Value present in any column ? Show with Heat-map.
