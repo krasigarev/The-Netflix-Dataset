@@ -1,4 +1,6 @@
-# In this project, will use:
+# The-Netflix-Dataset
+
+## In this project, will use:
 
 - head() - It shows the first N rows in the data (by default, N=5).
 - tail () - It shows the last N rows in the data (by default, N=5).
@@ -24,29 +26,29 @@
 - mean( ) - It shows the mean value of the series.
 
 
-You will learn these things also:
+## You will learn these things also:
 
 - Creating New Columns & Dataframe
 - Filtering (Single Column & Multiple Columns)
 - Filtering with And and OR
 - Seaborn Library - Bar Graphs
 
-Tasks:
+## Tasks:
 
-1) Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
-2) Is there any Null Value present in any column ? Show with Heat-map.
-1) For 'House of Cards', what is the Show Id and Who is the Director of this show ?
-2) In which year the highest number of the TV Shows & Movies were released ? Show with Bar Graph.
-3) How many Movies & TV Shows are in the dataset ? Show with Bar Graph.
-4) Show all the Movies that were released in year 2000.
-5) Show only the Titles of all TV Shows that were released in India only.
-6) Show Top 10 Directors, who gave the highest number of TV Shows & Movies to Netflix ?
-7) Show all the Records, where "Category is Movie and Type is Comedies" or "Country is United Kingdom".
-8) In how many movies/shows, Tom Cruise was cast ?
-9) What are the different Ratings defined by Netflix ?
-9.1) How many Movies got the 'TV-14' rating, in Canada ?
-9.2) How many TV Shows got the 'R' rating, after year 2018 ?
-10) What is the maximum duration of a Movie/Show on Netflix ?
-11) Which individual country has the Highest No. of TV Shows ?
-12) How can we sort the dataset by Year ?
-13) Find all the instances where: Category is 'Movie' and Type is 'Dramas' or Category is 'TV Show' & Type is 'Kids' TV'.
+- Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
+- Is there any Null Value present in any column ? Show with Heat-map.
+- For 'House of Cards', what is the Show Id and Who is the Director of this show?
+- In which year the highest number of the TV Shows & Movies were released? Show with Bar Graph.
+- How many Movies & TV Shows are in the dataset ? Show with Bar Graph.
+- Show all the Movies that were released in year 2000.
+- Show only the Titles of all TV Shows that were released in India only.
+- Show Top 10 Directors, who gave the highest number of TV Shows & Movies to Netflix?
+- Show all the Records, where "Category is Movie and Type is Comedies" or "Country is United Kingdom".
+- In how many movies/shows, Tom Cruise was cast?
+- What are the different Ratings defined by Netflix?
+- How many Movies got the 'TV-14' rating, in Canada?
+- How many TV Shows got the 'R' rating, after year 2018?
+- What is the maximum duration of a Movie/Show on Netflix?
+- Which individual country has the Highest No. of TV Shows?
+- How can we sort the dataset by Year?
+- Find all the instances where: Category is 'Movie' and Type is 'Dramas' or Category is 'TV Show' & Type is 'Kids' TV'.
